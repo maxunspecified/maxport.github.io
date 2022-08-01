@@ -6,7 +6,7 @@ Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglag
 <p>Hey there, I'm Jaye a Full Stack Software Engineer.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have some certain set of skills which includes Python, Typescript, C, C++, React & Angular. Familiar with Flutter, Swift, etc. <a href=https://maxunspecified.github.io/portfolio/> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>I am a teen Full Stack Software Engineer. With an average experience of 5 years. I have also been a freelance developer and is engaged in several projects. <br><br><br> Some of the mentioned projects... <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> Professional Presence in the internet. <br> <a href="link1">GitHub</a> <br> <a href="link2">Twitter</a> <br> <a href="link3">Instagram</a>.</p>
+<p> Professional Presence in the internet. <br> <a href="https://github.com/maxunspecified">GitHub</a> <br> <a href="link2">Twitter</a> <br> <a href="link3">Instagram</a>.</p>
 
 You can also give your email ID for contacting you <!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --> <a href=jsdranony@gmail.com> Email</a>.
 
