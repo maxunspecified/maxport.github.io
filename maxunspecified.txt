@@ -4,7 +4,7 @@ My favorite code quote, "<span id="k">AI is made by humans!</span>". <!-- sjkfhs
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how the website looks like.</p>
 <p>Hey there, I'm Jaye a Full Stack Software Engineer.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have some certain set of skills which includes Python, Typescript, C, C++, React & Angular. Familiar with Flutter, Swift, etc. <a href=https://maxunspecified.github.io/portfolio/> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have some certain set of skills which includes Python, Typescript, C, C++, React & Angular. Familiar with Flutter, Swift, etc. <a href= https://maxunspecified.github.io/portfolio/> maxport</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>I am a teen Full Stack Software Engineer. With an average experience of 5 years. I have also been a freelance developer and is engaged in several projects. <br><br><br> Some of the mentioned projects... <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Professional Presence in the internet. <br> <a href= https://github.com/maxunspecified>GitHub</a> <br> <a href="link2">Twitter</a> <br> <a href="link3">Instagram</a>.</p>
 
